@@ -1,0 +1,18 @@
+Start testing: Jun 12 21:18 MSK
+----------------------------------------------------------
+1/1 Testing: check
+1/1 Test: check
+Command: "/home/jamalay/Dzhamalay/zachet/test/_build/check"
+Directory: /home/jamalay/Dzhamalay/zachet/test/_build
+"check" start time: Jun 12 21:18 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"check" end time: Jun 12 21:18 MSK
+"check" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 12 21:18 MSK
